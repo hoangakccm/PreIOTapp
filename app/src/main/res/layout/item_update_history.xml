@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:gravity="start|center"
+    android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:paddingStart="10dp">
+
+            <TextView
+                android:id="@+id/textViewDateID"
+                android:layout_width="291dp"
+                android:layout_height="52dp"
+                android:gravity="start|center"
+                android:text="11:43 - 12/06/2023"
+                android:textSize="20sp"
+                android:textStyle="italic"></TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginEnd="0dp"
+                android:src="@drawable/ic_info_icon"></ImageView>
+        </LinearLayout>
+
+
+
+</FrameLayout>

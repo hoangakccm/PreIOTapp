@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779935465359",
+    "project_id": "preiot",
+    "storage_bucket": "preiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779935465359:android:a82fb1487d9f676173d5fa",
+        "android_client_info": {
+          "package_name": "com.example.preiotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779935465359-onl11lrlq2vasimvc00nk3h1e631r8e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZPD8Bq8-VPh96vxGOAb3LKSUMSicpXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779935465359-onl11lrlq2vasimvc00nk3h1e631r8e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

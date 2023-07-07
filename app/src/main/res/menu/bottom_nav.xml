@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Map"
+        android:id="@+id/map"
+        android:icon="@drawable/ic_location_icon"/>
+    <item android:title="Status"
+        android:id="@+id/status"
+        android:icon="@drawable/ic_status_icon"/>
+    <item android:title="Update"
+        android:id="@+id/update"
+        android:icon="@drawable/ic_update_icon"/>
+</menu>

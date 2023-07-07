@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PreIOT app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Map">Map</string>
+    <string name="Status">Status</string>
+    <string name="Update">Update</string>
+    <string name="My_location">My location</string>
+    <string name="Led_on_off">LED On/Off</string>
+    <string name="Control_bt">Control button</string>
+    <string name="led1">LED 1</string>
+    <string name="led2">LED 2</string>
+    <string name="LED1_blink_cycle_control">LED 1 blink cycle control</string>
+    <string name="LED2_blink_cycle_control">LED 2 blink cycle control</string>
+    <string name="Update_history">Update history</string>
+    <string name="new_notif">NEW NOTIFICATION</string>
+    <string name="Want_to_update">New updated version is available. Do you want to update?</string>
+    <string name="No_option">NO</string>
+    <string name="Yes_option">YES</string>
+    <string name="Update_successful">Update successful</string>
+    <string name="Update_error">Update error</string>
+    <string name="import_file_update">Import update file </string>
+    <string name="file_upload">File upload</string>
+
+
+
+
+</resources>
